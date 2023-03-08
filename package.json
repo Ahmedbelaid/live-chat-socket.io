@@ -1,0 +1,22 @@
+{
+  "name": "live chat socket-io",
+  "version": "1.0.2",
+  "description": "Live Chat Socket.io & ExpressJS with MongoDB",
+  "main": "app",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Ahmed Belaid",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1"
+  }
+}
